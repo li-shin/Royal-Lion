@@ -1,4 +1,4 @@
 
-# Haikus for Codespaces
+# Royal Lion - Financial Department.
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+[Royal Lion - Financial Department](https://github.com/li-shin_group/royal_lion).
